@@ -11,3 +11,21 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 * FreeDOOM, the open source DOOM game from DOS with a new story. WADs included.
 * VLC, the media player. If Windows 10 won't let you watch movies, VLC offers high quality playback and streaming.
 * Stella, the Atari 2600 emulator.
+* ioQuake3, the open source Quake III Arena game for Linux.
+* GNU Paint, the paint program similar to Windows MS Paint.
+* kdeNLive, the video editing software for Linux. This can export media files to the format you need and however you want.
+* FileZilla, the File Transfer Protocol maintenance tool for Linux.
+* ESpeak, a text-to-speech program for Linux. Make it say whatever you want because you obviously do not have the guts to say it yourself.
+* Audacity, the audio tool for Linux. Edit and export as lossless audio or midi.
+* Steam, the Steam launcher tool for Linux. Requires internet access.
+* LibreOffice, the free Office Suite everybody dreams of having.
+* Desktop Cube, just to spicen up some things.
+* `genisoimage` and `squashfs-tools`, to make that custom Linux Mint ISO.
+
+## Screenshots
+
+(Todo: Add screenshots)
+
+## Downloads
+
+Coming April 2018
