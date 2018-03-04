@@ -6,6 +6,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 
 * VICE, the main attraction. This is the open source C64 emulator for Linux. To play C64 images, look for the roms in `/usr/share/classic/c64`
 * VirtualBox, the PC emulation software. If you wish to try your custom Linux Mint ISO, this emulator will run it with network access.
+* VisualBoyAdvance, to play your favorite GBA, GBC, or GB roms. 
 * Chromium, the main web browser. This is an open source clone of the famous Google Chrome browser. It offers the same plugins plus the dinosaur game.
 * Wine, the Windows Environment layer for Linux. Not every Windows program works here but Halo certainly works flawlessly.
 * FreeDOOM, the open source DOOM game from DOS with a new story. WADs included.
