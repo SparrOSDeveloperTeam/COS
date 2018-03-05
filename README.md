@@ -1,6 +1,6 @@
 <script>
   html { 
-    background: url(images/bg.jpg) no-repeat center center fixed; 
+    background: url(https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/background.png) no-repeat center center fixed; 
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
