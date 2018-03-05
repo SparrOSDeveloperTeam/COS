@@ -4,7 +4,7 @@ For people not on the official website, click <a href="https://sparrosdevelopert
 
 Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barry Altman's COS Vision from 2012. This OS will be built entirely using Linux Mint 18.3 Live CDs. To learn how to make your own Linux Mint distro and customize it to the core, seek <a href="https://community.linuxmint.com/tutorial/view/1784">here</a>.
 
-## Trailer
+## Watch the Trailer
 
 <video src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" width="320" height="200" controls preload>If you are seeing message, either A. The MP4 tag is corrupted, B. Your must upgrade your browser and plugins or C. You must be on sparrosdeveloperteam.gihtub.io server.
 </video>
