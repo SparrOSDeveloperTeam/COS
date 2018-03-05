@@ -4,9 +4,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 
 ## Trailer
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" type="video/mp4">
-If you are seeing message, either A. The MP4 tag is corrupted or B. Your must upgrade your browser and plugins.
+<video src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" width="320" height="200" controls preload>If you are seeing message, either A. The MP4 tag is corrupted or B. Your must upgrade your browser and plugins.
 </video>
 
 ## Software Included
