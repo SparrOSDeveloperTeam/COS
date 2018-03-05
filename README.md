@@ -28,6 +28,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 * Steam, the Steam launcher tool for Linux. Requires internet access.
 * LibreOffice, the free Office Suite everybody dreams of having.
 * Desktop Cube, just to spicen up some things.
+* Blender, the 3-D tool.
 * `genisoimage` and `squashfs-tools`, to make that custom Linux Mint ISO.
 
 ## Screenshots
