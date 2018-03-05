@@ -1,6 +1,4 @@
-<head>
-  <link href="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/favicon.ico" rel="icon" type="image/x-icon" />
-</head>
+<link href="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/favicon.ico" rel="icon" type="image/x-icon" />
 
 For people not on the official website, click <a href="https://sparrosdeveloperteam.github.io/COS">here</a>.
 
