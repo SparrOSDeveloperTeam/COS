@@ -1,6 +1,6 @@
 For people not on the official website, click <a href="https://sparrosdeveloperteam.github.io/COS">here</a>.
 
-<img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/background.png" alt="Commodore OS Vision" width="100%" height="100%" />
+<iframe src="http://lexoyo.me/jekyll-slideshow/slides/my-pics1.html" width="100%" height="100%" style="border: none;"></iframe>
 
 # Commodore OS Vision II Official Site
 
