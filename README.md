@@ -37,7 +37,16 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 
 (Todo: Add screenshots)
 
-## Downloads
+## System Requirements
+
+Memory: 2GB (2048MB) or higher is recommended. Lowest is 1GB.
+USB Keyboard (PS/2 Keyboard works also)
+USB Human Interface Device: Mouse (PS/2 works also)
+Monitor (Virtual monitors will work but certain features will not work)
+nVidia Graphics card (Any after 2013) other graphics cards work also
+10.8GB HDD Storage.
+
+## Get the ISO Image
 
 Coming April 2018
 
