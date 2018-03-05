@@ -40,3 +40,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 ## Downloads
 
 Coming April 2018
+
+## Wallpaper Packs
+
+(Todo: Add _wallpack.tar.gz_)
