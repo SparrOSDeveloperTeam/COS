@@ -6,7 +6,7 @@
     -o-background-size: cover;
     background-size: cover;
   }
-</script
+</script>
 
 For people not on the official website, click <a href="https://sparrosdeveloperteam.github.io/COS">here</a>.
 
