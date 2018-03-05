@@ -8,7 +8,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 
 ## Watch the Trailer
 
-<video  poster="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/GeOS_Commodore_64.gif" src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" width="320" height="200" controls preload>If you are seeing message, either A. The MP4 tag is corrupted, B. Your must upgrade your browser and plugins or C. You must be on sparrosdeveloperteam.gihtub.io server.
+<video poster="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/GeOS_Commodore_64.gif" src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" width="100%" height="100%" controls preload>If you are seeing message, either A. The MP4 tag is corrupted, B. Your must upgrade your browser and plugins or C. You must be on sparrosdeveloperteam.gihtub.io server.
 </video>
 
 ## Software Included
