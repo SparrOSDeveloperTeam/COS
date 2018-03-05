@@ -1,3 +1,11 @@
+.fstPage {
+    background-image:url("https://lawrencecheng123.github.io/Seattle.jpg");
+    /*background-color: lightgray;*/
+    height: 700px;
+    width:100%;
+    background-size:cover;
+}
+
 For people not on the official website, click <a href="https://sparrosdeveloperteam.github.io/COS">here</a>.
 
 # Commodore OS Vision II Official Site
