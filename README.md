@@ -1,13 +1,3 @@
-<script>
-  html { 
-    background: url(https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/background.png) no-repeat center center fixed; 
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
-  }
-</script>
-
 For people not on the official website, click <a href="https://sparrosdeveloperteam.github.io/COS">here</a>.
 
 # Commodore OS Vision II Official Site
