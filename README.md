@@ -56,4 +56,4 @@ Coming April 2018
 
 
 
-<img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/coslogo.png" alt="Commodore OS Vision II Logo" width="100%" height="100%" />
+<img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/coslogo.jpg" alt="Commodore OS Vision II Logo" width="100%" height="100%" />
