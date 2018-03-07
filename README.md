@@ -33,7 +33,9 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 * Blender, the 3-D tool.
 * `genisoimage` and `squashfs-tools`, to make that custom Linux Mint ISO.
 
+<div style="text-align:center">
 <img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/linuxc64.png" alt="Commodore OS Vision II Logo" height="40%" width="40%" />
+</div>
 
 ## Screenshots
 
