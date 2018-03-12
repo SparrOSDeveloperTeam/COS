@@ -4,7 +4,7 @@ For people not on the official website, click <a href="https://sparrosdevelopert
 
 # Commodore OS Vision II Official Site
 
-Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barry Altman's COS Vision from 2012. This OS will be built entirely using Linux Mint 18.3 Live CDs. To learn how to make your own Linux Mint distro and customize it to the core, seek <a href="https://community.linuxmint.com/tutorial/view/1784">here</a>.
+Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barry Altman's COS Vision from 2012. This OS will be based on <a href="https://linuxmint.com/">Linux Mint 18.3 Sylvia</a> LiveCD. To learn how to make your own Linux Mint distro and customize it to the core, seek <a href="https://community.linuxmint.com/tutorial/view/1784">here</a>.
 
 ## Watch the Trailer
 
