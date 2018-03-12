@@ -4,6 +4,9 @@ For people not on the official website, click <a href="https://sparrosdevelopert
 
 # Commodore OS Vision II Official Site
 
+<center>
+  Home    |    <a href="#software">Software</a>    |    <a href="#screenshot">Screenshots</a>    |    <a href="#download">Download</a>
+
 Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barry Altman's COS Vision from 2012. This OS will be based on <a href="https://linuxmint.com/">Linux Mint 18.3 Sylvia</a> LiveCD. To learn how to make your own Linux Mint distro and customize it to the core, seek <a href="https://community.linuxmint.com/tutorial/view/1784">here</a>.
 
 ## Watch the Trailer
@@ -11,6 +14,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 <video poster="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/GeOS_Commodore_64.gif" src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" width="100%" height="100%" controls preload>If you are seeing message, either A. The MP4 tag is corrupted, B. You must be on sparrosdeveloperteam.gihtub.io server, or C. Your must upgrade your browser and plugins.
 </video>
 
+<a id="software" name="software" />
 ## Software Included
 
 * <a href="http://vice-emu.sourceforge.net/">VICE</a>, the main attraction. This is the open source C64 emulator for Linux. To play C64 images, look for the roms in `/usr/share/classic/c64`
@@ -38,6 +42,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 <img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/linuxc64.png" alt="Commodore OS Vision II Logo" height="40%" width="40%" />
 </center>
 
+<a id="screenshot" name="screenshot" />
 ## Screenshots
 
 (Todo: Add screenshots)
@@ -52,6 +57,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 * 10.8GB HDD Storage.
 * AMD64 Processor or x64 Processor (Not Itanium-64)
 
+<a id="download" name="download" />
 ## Get the ISO Image
 
 Coming April 2018
