@@ -25,12 +25,13 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 * <a href="https://www.gnu.org/software/gpaint/">GNU Paint</a>, the paint program similar to Windows MS Paint.
 * <a href="https://kdenlive.org/">kdeNLive</a>, the video editing software for Linux. This can export media files to the format you need and however you want.
 * <a href="https://filezilla-project.org/">FileZilla</a>, the File Transfer Protocol maintenance tool for Linux.
-* ESpeak, a text-to-speech program for Linux. Make it say whatever you want because you obviously do not have the guts to say it yourself.
-* Audacity, the audio tool for Linux. Edit and export as lossless audio or midi.
-* Steam, the Steam launcher tool for Linux. Requires internet access.
-* LibreOffice, the free Office Suite everybody dreams of having.
-* Desktop Cube, just to spicen up some things.
-* Blender, the 3-D tool.
+* <a href="http://espeak.sourceforge.net/">ESpeak</a>, a text-to-speech program for Linux. Make it say whatever you want because you obviously do not have the guts to say it yourself.
+* <a href="https://www.audacityteam.org/">Audacity</a>, the audio tool for Linux. Edit and export as lossless audio or midi.
+* <a href="https://store.steampowered.com/">Steam</a>, the Steam launcher tool for Linux. Requires internet access.
+* <a href="https://www.libreoffice.org/">LibreOffice</a>, the free Office Suite everybody dreams of having.
+* Desktop Cube (`compizconfig` and `compiz`), just to spicen up some things.
+* <a href="https://www.blender.org/">Blender</a>, the 3-D tool.
+* <a href="https://obsproject.com/">Open Broadcaster Service</a>, for recording and live streaming your games.
 * `genisoimage` and `squashfs-tools`, to make that custom Linux Mint ISO.
 
 <center>
