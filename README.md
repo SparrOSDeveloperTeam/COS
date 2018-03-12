@@ -17,11 +17,11 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 * <a href="https://www.virtualbox.org/">VirtualBox</a>, the PC emulation software. If you wish to try your custom Linux Mint ISO, this emulator will run it with network access.
 * <a href="https://sourceforge.net/projects/vba/">VisualBoyAdvance</a>, to play your favorite GBA, GBC, or GB roms. 
 * <a href="https://www.chromium.org/">Chromium</a>, the main web browser. This is an open source clone of the famous Google Chrome browser. It offers the same plugins plus the dinosaur game.
-* Wine, the Windows Environment layer for Linux. Not every Windows program works here but Halo certainly works flawlessly.
-* FreeDOOM, the open source DOOM game from DOS with a new story. WADs included.
-* VLC, the media player. If Windows 10 won't let you watch movies, VLC offers high quality playback and streaming.
-* Stella, the Atari 2600 emulator.
-* ioQuake3, the open source Quake III Arena game for Linux.
+* <a href="https://www.winehq.org/">Wine</a>, the Windows Environment layer for Linux. Not every Windows program works here but Halo certainly works flawlessly.
+* <a href="https://freedoom.github.io/">FreeDOOM</a>, the open source DOOM game from DOS with a new story. WADs included.
+* <a href="https://www.videolan.org/index.html">VLC</a>, the media player. If Windows 10 won't let you watch movies, VLC offers high quality playback and streaming.
+* <a href="https://stella-emu.github.io/">Stella</a>, the Atari 2600 emulator.
+* <a href="https://ioquake3.org/">ioQuake3</a>, the open source Quake III Arena game for Linux.
 * GNU Paint, the paint program similar to Windows MS Paint.
 * kdeNLive, the video editing software for Linux. This can export media files to the format you need and however you want.
 * FileZilla, the File Transfer Protocol maintenance tool for Linux.
