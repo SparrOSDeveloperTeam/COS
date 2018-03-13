@@ -2,12 +2,11 @@ For people not on the official website, click <a href="https://sparrosdevelopert
 
 <img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/background.png" alt="Commodore OS Vision" width="100%" height="100%" />
 
-# Commodore OS Vision II Official Site
-
 <center>
 | Home  | <a href="#software">Software</a> | <a href="#screenshot">Screenshots</a> | <a href="#download">Download the ISO</a> |
 </center>
 
+# Commodore OS Vision II Official Site
 
 Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barry Altman's COS Vision from 2012. This OS will be based on <a href="https://linuxmint.com/">Linux Mint 18.3 Sylvia</a> LiveCD. To learn how to make your own Linux Mint distro and customize it to the core, seek <a href="https://community.linuxmint.com/tutorial/view/1784">here</a>.
 
