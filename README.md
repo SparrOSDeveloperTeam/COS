@@ -72,13 +72,21 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 <a id="download" name="download" />
 ## Get the ISO Image
 
-Coming April 2018
+The ISO image is finally available but took forever to upload because my internet sucks :P. So anyways here are the mirrors:
 
-## Wallpaper Packs
+Mirror 1: (Google Drive)
+<br>
+<a href="https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC">https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC</a>
 
-(Todo: Add _wallpack.tar.gz_)
+Mirror 2: (Dropbox)
+<br>
+Who knows when this mirror will become available.
 
+Torrent file:
+<br>
+Who knows when this file will be available.
 
+How to extract: Download all files in the COS-Vision-II folder and extract all using WinRAR or 7-Zip.
 
 <img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/coslogo.png" alt="Commodore OS Vision II Logo" width="100%" height="100%" />
 
