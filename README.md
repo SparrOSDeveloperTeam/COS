@@ -86,8 +86,8 @@ Torrent file:
 <br>
 Who knows when this file will be available.
 
-How to extract: Download all files in the COS-Vision-II folder and extract all using WinRAR or 7-Zip.
+How to extract: Download all files in the COS-Vision-II folder. Then select all of the files you downloaded from the folder and choose to extract here all at once with <a href="https://www.rarlab.com/">WinRAR</a> or <a href="https://www.7-zip.org/">7-Zip</a>.
 
 <img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/coslogo.png" alt="Commodore OS Vision II Logo" width="100%" height="100%" />
 
-_Image donated by <a href="https://github.com/SamParisot">Sam_Parisot</a>_
+_Image donated by <a href="https://github.com/SamParisot">Sam_Parisot // DremOS Team</a>_
