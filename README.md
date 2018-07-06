@@ -72,6 +72,8 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 <a id="download" name="download" />
 ## Get the ISO Image
 
+Warning: Google Drive mirror may not work for all!
+
 The ISO image is finally available but took forever to upload because my internet sucks :P. So anyways here are the mirrors:
 
 Recommended Mirror: (Github Releases)
