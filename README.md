@@ -76,10 +76,6 @@ Warning: Google Drive mirror may not work for all!
 
 The ISO image is finally available but took forever to upload because my internet sucks :P. So anyways here are the mirrors:
 
-Recommended Mirror: (Github Releases)
-<br>
-<a href="https://github.com/SparrOSDeveloperTeam/COS/releases">https://github.com/SparrOSDeveloperTeam/COS/releases</a>
-
 Mirror 1: (Google Drive)
 <br>
 <a href="https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC">https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC</a>
