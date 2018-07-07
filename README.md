@@ -84,7 +84,7 @@ Mirror 1: (Google Drive)
 <br>
 <a href="https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC">https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC</a>
 
-Mirror 2: (Dropbox)
+Mirror 2: (Dropbox) (Latest Versions uploaded only)
 <br>
 Who knows when this mirror will become available.
 
