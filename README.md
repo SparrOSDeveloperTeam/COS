@@ -77,12 +77,12 @@ Warning: Google Drive mirror may not work for all!
 The ISO image is finally available but took forever to upload because my internet sucks :P. So anyways here are the mirrors:
 
 Mirror 1: (Google Drive)
-<br>
+<br/>
 <a href="https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC">https://drive.google.com/folderview?id=19VI1oqTvPSEMcy27bi6AlQKz5EP67WuC</a>
 
 Mirror 2: (Dropbox) (Latest Versions uploaded only)
-<br>
-Who knows when this mirror will become available.
+<br/>
+[https://www.dropbox.com/sh/arljpzkg2g235pj/AAApUHK7eyOSiSZIOTYXPWwla?dl=0](https://www.dropbox.com/sh/arljpzkg2g235pj/AAApUHK7eyOSiSZIOTYXPWwla?dl=0)
 
 Torrent file:
 <br>
