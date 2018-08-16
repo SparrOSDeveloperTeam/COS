@@ -21,6 +21,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 ## Software Included
 
 * <a href="http://vice-emu.sourceforge.net/">VICE</a>, the main attraction. This is the open source C64 emulator for Linux. To play C64 images, look for the roms in `/usr/share/classic/c64`
+* <a href="https://www.dosbox.com">DOSBox</a>, the DOS platform emulator for all your favorite 16 bit apps, games, tools, and Windows.
 * <a href="https://www.virtualbox.org">VirtualBox</a>, the PC emulation software solution. If you wish to try your custom Linux Mint ISO, this emulator will run it with network access.
 * <a href="https://sourceforge.net/projects/vba/">VisualBoyAdvance</a>, to play your favorite GBA, GBC, or GB roms. 
 * <a href="https://www.chromium.org/">Chromium</a>, the main web browser. This is an open source clone of the famous Google Chrome browser. It offers the same plugins plus the dinosaur game.
