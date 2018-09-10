@@ -12,9 +12,11 @@ For people not on the official website, click <a href="https://sparrosdevelopert
 
 Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barry Altman's COS Vision from 2012. This OS will be based on <a href="https://linuxmint.com/">Linux Mint 18.3 Sylvia</a> LiveCD. To learn how to make your own Linux Mint distro and customize it to the core, seek <a href="https://community.linuxmint.com/tutorial/view/1784">here</a>.
 
+**Update:** We have planned to release Commodore OS Vision II to Raspberry Pi systems. Thanks to [TheSin-](https://github.com/TheSin-) we have now obtained a working Raspberry Pi image builder. The image will be built with a Debian type OS. We will post more about this on our YouTube channel, the [Sam&Yoe Group](https://www.youtube.com/channel/UCtP8T6GjJdAyq0pp9Obv97w).
+
 ## Watch the Trailer
 
-<video poster="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/GeOS_Commodore_64.gif" src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" width="100%" height="100%" controls preload>If you are seeing message, either A. The MP4 tag is corrupted, B. You must be on sparrosdeveloperteam.gihtub.io server, or C. Your must upgrade your browser and plugins.
+<video poster="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/GeOS_Commodore_64.gif" src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/cosvii.mp4" width="100%" height="100%" controls preload />If you are seeing message, either A. The MP4 tag is corrupted, B. You must be on sparrosdeveloperteam.gihtub.io server, C. Your must upgrade your browser and plugins, or D. Check out the vid on our channel [here](https://www.youtube.com/channel/UCtP8T6GjJdAyq0pp9Obv97w)
 </video>
 
 <a id="software" name="software" />
