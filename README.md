@@ -1,4 +1,4 @@
-For people not on the official website, click <a href="https://sparrosdeveloperteam.github.io/COS">here</a>.
+For people not on the official website, click <a href="https://sparrosdeveloperteam.github.io/COS">here</a>. Fixed site so most information does not disappear. Sorry for the inconvenience.
 
 <img src="https://github.com/SparrOSDeveloperTeam/COS/raw/master/pagefiles/background.png" alt="Commodore OS Vision" width="100%" height="100%" />
 
