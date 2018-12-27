@@ -6,7 +6,7 @@ For people not on the official website, click <a href="https://sparrosdevelopert
 | Home  | <a href="#software">Software</a> | <a href="#screenshot">Screenshots</a> | <a href="#download">Download the ISO</a> |
 </center>
 
-
+!Update: B3600 is now in development! This means new features, bugfixes, updates, etc. Please click 'watch' or 'star' to be notified of newer releases.
 
 # Commodore OS Vision II Official Site
 
