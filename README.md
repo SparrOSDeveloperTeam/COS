@@ -69,7 +69,7 @@ Welcome to Commodore OS Vision II. This is a remaster and minimal system of Barr
 * Monitor (Virtual monitors will work but certain features will not work)
 * nVidia Graphics card (Any after 2013) other graphics cards work also
 * 10.8GB HDD Storage.
-* AMD64 Processor or x64 Processor (Not Itanium-64)
+* AMD64 Processor or x64 Processor (Not Arm64!) 2.4GHz or higher recommended (1.6GHz min)
 
 <a id="download" name="download" />
 ## Get the ISO Image
