@@ -88,7 +88,7 @@ Mirror 2: (Dropbox) (Latest Versions uploaded only)
 
 Torrent file:
 <br>
-Who knows when this file will be available.
+Anyone that wishes to put Commodore OS Vision II B3200 on a torrent let us know or else who knows when this file will be available.
 
 How to extract: Download all files in the COS-Vision-II folder. Then select all of the files you downloaded from the folder and choose to extract here all at once with <a href="https://www.rarlab.com/">WinRAR</a> or <a href="https://www.7-zip.org/">7-Zip</a>.
 
