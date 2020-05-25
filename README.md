@@ -7,7 +7,7 @@ For people not on the official website, click <a href="https://sparrosdevelopert
 </center>
 
 
-!Update: B3600 is now in development! This means new features, bugfixes, updates, etc. Please click 'watch' or 'star' to be notified of newer releases.
+!Update: Vision III is now in development! It will be made from scratch using source code unlike what was planned for the now cancelled Build 3600 version.
 
 # Commodore OS Vision II Official Site
 
