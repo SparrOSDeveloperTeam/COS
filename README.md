@@ -86,9 +86,12 @@ Mirror 2: (Dropbox) (Latest Versions uploaded only)
 <br/>
 [https://www.dropbox.com/sh/arljpzkg2g235pj/AAApUHK7eyOSiSZIOTYXPWwla?dl=0](https://www.dropbox.com/sh/arljpzkg2g235pj/AAApUHK7eyOSiSZIOTYXPWwla?dl=0)
 
+Mirror 3 (full): (The Internet Wayback Machine)
+<br/>
+[https://ia801404.us.archive.org/9/items/cos-vii-b3200/COS-Vision-II-B3200.iso](https://ia801404.us.archive.org/9/items/cos-vii-b3200/COS-Vision-II-B3200.iso)
 Torrent file:
 <br>
-Anyone that wishes to put Commodore OS Vision II B3200 on a torrent let us know or else who knows when this file will be available.
+[cos-vii-b3200_archive.torrent](https://ia801404.us.archive.org/9/items/cos-vii-b3200/cos-vii-b3200_archive.torrent)
 
 How to extract: Download all files in the COS-Vision-II folder. Then select all of the files you downloaded from the folder and choose to extract here all at once with <a href="https://www.rarlab.com/">WinRAR</a> or <a href="https://www.7-zip.org/">7-Zip</a>.
 
